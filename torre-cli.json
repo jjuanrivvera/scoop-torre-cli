@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/torre-cli/releases/download/v0.1.1/torre-cli_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/torre-cli/releases/download/v0.1.2/torre-cli_0.1.2_windows_amd64.zip",
             "bin": [
                 "torre.exe"
             ],
-            "hash": "b315f155619f8d9219aca5941ec33f5882bfcb56c18a6fd5ee8c67ce9f6602fe"
+            "hash": "a4ca08a4fe82dbfb7f64c2bc5daf7df65a4598f6f788bb7615aa901ab75f21db"
         }
     }
 }
